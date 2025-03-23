@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Neha Manmode!
+# Hi, I'm Neha Manmode!
 
 🎓 Master’s in Management Information Systems student at **University at Buffalo**, graduating in **May 2025**, with 3+ years of experience in **Database Administration**, **Cloud Platforms**, and **Data Analytics**.
 
@@ -47,4 +47,3 @@
 📧 nehamanmode98@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/neha-manmode/)
 
---
