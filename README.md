@@ -2,7 +2,7 @@
 
 🎓 Master’s in Management Information Systems student at **University at Buffalo**, graduating in **May 2025**, with 3+ years of experience in **Database Administration**, **Cloud Platforms**, and **Data Analytics**.
 
-🌱 Currently seeking opportunities in **Data Analysis**, **BI**, and **Database Engineering** where I can apply my technical skills and passion for turning data into actionable insights.
+🌱 Currently seeking opportunities in **Data Analytics**, **Business Intelligence Analyst**, and **Data Engineering** where I can apply my technical skills and passion for turning data into actionable insights.
 
 ---
 
