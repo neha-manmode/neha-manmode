@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Academic Projects
+## 🧠 Academic & Independent Projects
 
 - **📊 Bank Personal Loan Prediction** – Achieved 95% accuracy using Scikit-Learn, improved marketing strategy precision by 20%.
 - **🏪 Retail Analytics Warehouse (OCI + SQL Server)** – Built ETL with Apache Hop and visualized trends using Power BI.
