@@ -1,6 +1,6 @@
 # Hi, I'm Neha Manmode!
 
-🎓 Master’s in Management Information Systems student at **University at Buffalo**, graduating in **May 2025**, with 3+ years of experience in **Database Administration**, **Cloud Platforms**, and **Data Analytics**.
+🎓 Master’s in Management Information Systems from **University at Buffalo**, graduated in **May 2025**, with 4+ years of experience in **Database Administration**, **Cloud Platforms**, and **Data Analytics**.
 
 🌱 Currently seeking opportunities in **Data Analytics**, **Business Intelligence Analyst**, and **Data Engineering** where I can apply my technical skills and passion for turning data into actionable insights.
 
@@ -8,8 +8,9 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Software Engineer | Capgemini (May 2022 – June 2024)
-### 🔹 Software Developer | Uphill Technologies (Dec 2020 – May 2022)
+### 🔹 Data Analyst (Volunteer) | Buffalo Center for Arts and Technology (Aug 2025 – Present)
+### 🔹 Data Analyst | Capgemini (May 2022 – June 2024)
+### 🔹 Data Analyst | Uphill Technologies (Dec 2020 – May 2022)
 
 ---
 
@@ -27,8 +28,8 @@
 
 **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, PL/SQL  
 **Databases:** Oracle, MS SQL Server, Snowflake, BigQuery  
-**BI Tools:** Tableau, Power BI, Excel  
-**Platforms & Tools:** AWS, Oracle Cloud Infrastructure, Apache Hop, Salesforce, Oracle EBS 12R
+**BI Tools:** Tableau, Power BI, Excel, SSRS  
+**Platforms & Tools:** AWS, Oracle Cloud Infrastructure, Apache Hop, Salesforce, Oracle EBS 12R, SSIS
 
 ---
 
@@ -38,12 +39,13 @@
 - 🟨 Salesforce Certified AI Associate  
 - 🟧 Oracle Cloud Infrastructure 2023 Foundation Associate  
 - 🟦 Snowflake & BigQuery Workshops
+- 🟩 Databricks - Generative AI Fundamentals
 
 ---
 
 ## 📫 Let’s Connect
 
-📍 Based in Buffalo, NY  
+📍 Based in Chicago, IL 
 📧 nehamanmode98@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/neha-manmode/)
 
